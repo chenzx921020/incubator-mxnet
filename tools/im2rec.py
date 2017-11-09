@@ -28,7 +28,7 @@ import argparse
 import cv2
 import time
 import traceback
-from builtins import range
+#from builtins import range
 
 try:
     import multiprocessing
